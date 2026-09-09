@@ -95,4 +95,4 @@ The `users` table is created automatically when the app starts.
 
 <img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/f4d2d891-8ebb-46b8-a54c-6112cc8be1cf" />
 https://github.com/guhan-xo/fastapi-mysql/blob/main/Screenshot%202026-09-09%20180956.png?raw=true
-
+https://github.com/guhan-xo/fastapi-mysql/blob/main/Screenshot%202026-09-09%20180936.png?raw=true
