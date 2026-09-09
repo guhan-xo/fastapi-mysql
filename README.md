@@ -95,3 +95,5 @@ The `users` table is created automatically when the app starts.
 
 <img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/f4d2d891-8ebb-46b8-a54c-6112cc8be1cf" />
 <img width="1886" height="892" alt="image" src="https://github.com/user-attachments/assets/796a4b6b-a0b4-4144-af9a-72532be5ea3a" />
+<img width="1872" height="947" alt="image" src="https://github.com/user-attachments/assets/3937324a-32b7-473c-9a6b-fcd5d99098eb" />
+
